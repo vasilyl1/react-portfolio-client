@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-client/static/css/main.808669e8.css",
+    "main.js": "/react-portfolio-client/static/js/main.c2e24353.js",
+    "static/media/png5a.png": "/react-portfolio-client/static/media/png5a.3bb034704406c2abf950.png",
+    "static/media/png3a.png": "/react-portfolio-client/static/media/png3a.ff0152817801ad803f52.png",
+    "static/media/png4a.png": "/react-portfolio-client/static/media/png4a.af8329532900f3193ba8.png",
+    "static/media/sportlinkconnect.png": "/react-portfolio-client/static/media/sportlinkconnect.540d79059d56a89fff69.png",
+    "static/media/image1.JPG": "/react-portfolio-client/static/media/image1.c0679a952ff1c8f23971.JPG",
+    "static/media/imgProj2.png": "/react-portfolio-client/static/media/imgProj2.536b5e24e979c895de3c.png",
+    "static/media/vas-photo.jpeg": "/react-portfolio-client/static/media/vas-photo.b27cfc61e68e313904f0.jpeg",
+    "index.html": "/react-portfolio-client/index.html",
+    "main.808669e8.css.map": "/react-portfolio-client/static/css/main.808669e8.css.map",
+    "main.c2e24353.js.map": "/react-portfolio-client/static/js/main.c2e24353.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.808669e8.css",
+    "static/js/main.c2e24353.js"
+  ]
+}
